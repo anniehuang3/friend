@@ -2,8 +2,7 @@
 
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+這是一個關於我與朋友們瘋狂故事, 故事裡多半是一些那些瘋狂出遊日記，背包裡只有一瓶水一個錢包，毫無計畫的旅行。
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
